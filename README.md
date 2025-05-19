@@ -13,7 +13,3 @@
 <p align="left">I’m currently working on kiberone.com<br><br>I've been working with SparkGuard<br><br>How to reach me maoganesian@edu.hse.ru</p>
 
 ###
-
-<h2 align="left">I code with</h2>
-
-###
