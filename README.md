@@ -40,14 +40,6 @@
 
 ---
 
-<h2 align="left">Languages & Tools</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,html,css,docker,postgres,git,vscode,linux" alt="Languages and Tools" />
-</p>
-
----
-
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
