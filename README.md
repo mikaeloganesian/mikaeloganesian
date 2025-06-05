@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Mike aka 15lu.Akari 👋</h1>
+<h1 align="left">Hi, I'm Mikael Oganesian</h1>
 
 <p align="left">
   🚀 Full-stack Developer (Frontend & Backend)<br>
@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br><br>
-  ⚡ Main Tools: React, Refine, Redux Toolkit, Tailwind CSS, Material UI, Next.js, Vite<br>
-  💡 Additional: Zustand, Axios, React Query, Formik, Yup
+  - Main Tools: React, Refine, Redux Toolkit, Tailwind CSS, Material UI, Next.js, Vite<br>
+  - Additional: Zustand, Axios, React Query, Formik, Yup
 </p>
 
 ### Backend
@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br><br>
-  ⚙️ Core: Golang (Gin, gRPC), REST API<br>
-  🛠️ Tools: PostgreSQL, MySQL, Docker, GORM<br>
-  🔒 Auth: JWT, OAuth2<br>
-  🧪 Testing: Go test, Postman
+  - Core: Golang (Gin, gRPC), REST API<br>
+  - Tools: PostgreSQL, MySQL, Docker, GORM<br>
+  - Auth: JWT, OAuth2<br>
+  - Testing: Go test, Postman
 </p>
 
 ---
