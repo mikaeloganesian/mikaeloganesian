@@ -57,8 +57,9 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeloganesian&layout=compact&langs_count=10&hide=cmake&theme=transparent" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeloganesian&theme=transparent" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeloganesian&layout=compact&langs_count=10&hide=cmake&theme=transparent&custom_width=320" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeloganesian&theme=transparent&custom_width=320" alt="GitHub Streak" />
+
 </p>
 
 ---
