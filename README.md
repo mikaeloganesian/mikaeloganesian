@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Mikael Oganesian</h1>
 
 <p align="left">
-  🚀 Full-stack Developer (Frontend & Backend)<br>
-  📍 Based in Moscow, Russia & Yerevan, Armenia
+  - Full-stack Developer (Frontend & Backend)<br>
+  - Based in Moscow, Russia & Yerevan, Armenia
 </p>
 
 ---
@@ -56,9 +56,9 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeloganesian&layout=compact&langs_count=10&hide=cmake&theme=transparent&custom_height=320" alt="Top Langs" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeloganesian&theme=transparent&custom_height=320" alt="GitHub Streak" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeloganesian&layout=compact&langs_count=10&hide=cmake&theme=transparent&custom_width=320" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeloganesian&theme=transparent&custom_width=320" alt="GitHub Streak" />
 
 
 </p>
