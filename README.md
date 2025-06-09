@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/><br><br>
   - Essential additions: Git, GitHub, ESLint, Prettier, testing with Mocha<br>
-  - Animations: GSAP (for advanced and performant animations)
+  - Animations: GSAP
 </p>
 
 
